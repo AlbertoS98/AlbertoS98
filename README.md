@@ -27,7 +27,7 @@ Especialización en electrónica, electricidad, microcontroladores, desarrollo d
 ## 💼 Experiencia Profesional
 
 **Coordinador de Departamento en Desarrollo Tecnológico | Transformación Digital**  
-Privado · Mérida, Yucatán | jul. 2024 - Actualidad  
+Privado | jul. 2024 - Actualidad  
 - Liderazgo en desarrollo e implementación de soluciones de software y hardware, integrando IA y análisis de datos.
 - Gestión de equipos multidisciplinarios desde la planeación hasta la implementación.
 - Integración de tecnologías avanzadas para monitoreo y análisis en tiempo real.
